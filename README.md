@@ -2,6 +2,11 @@
 
 This project features a  learning model optimized using Keras Tuner, which automates the search for the best hyperparameters. By leveraging advanced optimization techniques, the model achieves superior performance on the Fashion MNIST dataset compared to baseline configurations.KerasTuner is an easy-to-use, scalable hyperparameter optimization framework that solves the pain points of hyperparameter search. Easily configure your search space with a define-by-run syntax, then leverage one of the available search algorithms to find the best hyperparameter values for your models. KerasTuner comes with Bayesian Optimization, Hyperband, and Random Search algorithms built-in, and is also designed to be easy for researchers to extend in order to experiment with new search algorithms.
 
+# Requirements
+1) Python 3.6
+2) Tensorflow 2.0
+
+
 # Installation
 pip install keras-tuner --upgrade
 
